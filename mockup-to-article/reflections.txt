@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+
+	I haven't really learned anything to this point, besides the sup tag. I have previous experience.
+
+* What has been easy?
+  
+
+	I love and have a hobby of looking at files and replicating in html and css. So everything. 
+
+* What has been difficult?
+  
+
+	With any new task there is learning the environment for Udacity. It is NOT difficult but it is the thing I need to get used to most so far.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+	
+	I used the problem solving skill of research to refresh my mind on some tags I haven't used in awhile.
